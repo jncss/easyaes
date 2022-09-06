@@ -1,2 +1,2 @@
 # easyaes
-Easy AES for golang
+Easy AES for Golang
